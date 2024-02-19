@@ -1,7 +1,15 @@
 
 .DS_Store
+<<<<<<< Updated upstream
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
 .idea/ITE2-SK2.iml
 .idea/inspectionProfiles/profiles_settings.xml
+=======
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/ITE2-SK2.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+>>>>>>> Stashed changes

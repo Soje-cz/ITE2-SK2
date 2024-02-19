@@ -1,0 +1,1 @@
+print("jestli se toto zobrazi, tak mi to funguje")

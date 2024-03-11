@@ -1,1 +1,3 @@
-print("jestli se toto zobrazi, tak mi to funguje")
+muj_index = [1,2,3,4,5,6,7,8,9,10]
+for i in muj_index:
+    print(i)
